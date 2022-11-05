@@ -1,7 +1,7 @@
 class Api {
     constructor() {
         this.baseUrl = 'https://api.ginko.voyage/'
-        this.apiKey = '81ebb234472e287f2154b8cad39e0076'
+        this.apiKey = '014ec2ea02294910a215613548b82015'
     }
 
     get(action, params = {}) {

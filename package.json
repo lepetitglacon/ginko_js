@@ -1,0 +1,29 @@
+{
+  "name": "ginko_js",
+  "version": "0.0.1",
+  "description": "Besancon Public Transport API helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lepetitglacon/ginko_js.git"
+  },
+  "keywords": [
+    "geojson"
+  ],
+  "author": "lepetitglacon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lepetitglacon/ginko_js/issues"
+  },
+  "homepage": "https://github.com/lepetitglacon/ginko_js#readme",
+  "dependencies": {
+    "csv": "^6.2.1",
+    "express": "^4.18.2",
+    "jquery": "^3.6.1",
+    "mongodb": "^4.11.0",
+    "nodemon": "^2.0.20"
+  }
+}
